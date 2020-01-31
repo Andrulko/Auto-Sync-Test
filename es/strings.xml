@@ -15,4 +15,14 @@ Copyright (C) 2014
   <string name="confirm_password">Confirmar Nueva Contraseña</string>
   <string name="change_password">Cambiar La Contraseña</string>
   <string name="password_recover">Recuperación de la contraseña</string>
+  <string name="password_reset_success">Votre mot de passe réinitialisé mis en orbite!</string>
+  <string name="read_message">Lire le message</string>
+  <string name="confirm_delete">Êtes-vous sûr de vouloir supprimer ce message?</string>
+  <string name="search_in_messages">Recherche dans les messages</string>
+  <string name="compose_messages">Composer Un Message</string>
+  <string name="no_data">Pas de date prévue</string>
+  <string name="quick_start">De Démarrage Rapide</string>
+  <string name="quick_start2">De Démarrage Rapide 2</string>
+  <string name="quick_start3">De Démarrage Rapide 3</string>
+  <string name="quick_start4">De Démarrage Rapide 4</string>
 </resources>
